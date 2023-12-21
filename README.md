@@ -17,7 +17,6 @@ and Platform/Cloud Engineer.</h3>
 - 🤝 I’m looking for help with **Devops**
 
 - 💬 Ask me about **Devops & Automation**
-- 
 - <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sakthivel-elumalai-70a02b179/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sakthivel-elumalai-70a02b179/" height="30" width="40" /></a>
