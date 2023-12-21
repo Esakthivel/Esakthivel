@@ -4,13 +4,13 @@
 <h3 align="Center"> Looking for Opportunity as a DevOps Engineer, Build Release Engineer, Site Reliability Engineer,
 and Platform/Cloud Engineer.</h3>
 
-<h4 align="Left">Highly proficient in Devops tools like Docker, Kubernetes, Helm, Ansible, Terraform, Jenkins, Git etc; and vast knowledge and application of AWS and Azure clouds. I coach and mentor team members and train DevOps Engineers.</h4>
+<h4 align="Left">Highly proficient in Devops tools like Docker, Kubernetes, Helm, Ansible, Terraform, Jenkins, Git etc; and vast knowledge and application of AWS, GCP and Azure clouds.</h4>
 
 <img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-505.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakthivel&label=Profile%20views&color=0e75b6&style=flat" alt="sakthivel" /> </p>
 
-- 🌱 I’m currently learning **Openshift**
+- 🌱 I’m currently looking for opportunity in **Devops/SRE**
 
 - 👯 I’m looking to collaborate on **Cloud Native Projects**
 
