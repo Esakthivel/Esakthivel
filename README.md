@@ -1,4 +1,4 @@
-<h1 align="center">Hello there! My name is Sakthivel</h1>
+<h1 align="center">Hello 👋 ! My name is Sakthivel</h1>
 <h2 align="center">A passionate Devops Engineer, I am working as a Testing Engineer @ Harman.</h2>
 
 <h3 align="Center"> Looking for Opportunity as a DevOps Engineer, Build Release Engineer, Site Reliability Engineer,
